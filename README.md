@@ -1,7 +1,7 @@
 ## Hi, I'm Paulo-alt👋
 
 <div>
-<img alt="My GitHub Stats" align="left" width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=paulo-alt&show_icons=true&theme=codeSTACKr" />
+<img alt="My GitHub Stats" align="left" width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=paulo-alt&show_icons=true&theme=codeSTACKr" />
 
 <img alt="Top Languages" align="left" width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-alt&show_icons=true&layout=compact&langs_count=8&theme=codeSTACKr" />
 
