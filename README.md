@@ -1,4 +1,4 @@
-## Hi, I'm Paulo-alt👋
+## Olá eu sou o Paulo-alt👋
 
 <div>
 <img alt="My GitHub Stats" align="left" width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=paulo-alt&show_icons=true&theme=codeSTACKr" />
@@ -6,7 +6,6 @@
 <img alt="Top Languages" align="left" width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-alt&show_icons=true&layout=compact&langs_count=8&theme=codeSTACKr" />
 
 </div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +18,7 @@
 </div>
 
  ##
-
+Conect with me!
 <div>
   <a href="mailto:paulovitorfreitas33@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
