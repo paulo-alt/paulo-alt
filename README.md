@@ -16,18 +16,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="paulo-luffy" width="26%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNxam5qN2E2am4xaHhncW51M3J1aWR4cnl3Mms1d2I1aHB4aTdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif" />
-
-
 </div>
-
  ##
 connect with me!
-
-  <a href="mailto:paulovitorfreitas33@gmail.com" target="_blank">
+<a href="mailto:paulovitorfreitas33@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/paulo-vitor-423875244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<a href="https://www.linkedin.com/in/paulo-vitor-423875244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
