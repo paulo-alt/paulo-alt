@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="paulo-luffy" width="26%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHYxbmRsbTZvcHg5bDR3aWRwNTdwbGw5MGx1OWd5NGJ3Zm94aHE3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6UInbKnLIIxuZHiQl8/giphy.gif" />
+  <img align="right" alt="paulo-luffy" width="26%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExank2eDhveXl1dG1tYmdjYjYwdW84anVxMHRjb2k5dmFibjh4cGN0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HT6UQMUZMNbgyexsrL/giphy.gif" />
 
 
 </div>
