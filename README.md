@@ -18,7 +18,9 @@
   <img align="right" alt="paulo-luffy" width="26%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNxam5qN2E2am4xaHhncW51M3J1aWR4cnl3Mms1d2I1aHB4aTdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif" />
 </div>
  ##
+ 
 connect with me!
+
 <a href="mailto:paulovitorfreitas33@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
