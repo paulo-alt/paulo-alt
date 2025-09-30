@@ -14,7 +14,7 @@
 
 #
 <!--Texto-mensagem-->
-<p align="center">Estudante de Licenciatura e Bacharelado em Computação pelo IFRJ e Gran Faculdade. Atualmente trabalho com programação em C, C++, Python, Rust e Assembly, explorando sistemas embarcados e desenvolvimento de software.
+<p align="center">Student of Computer Science (Teaching Degree and Bachelor’s) at IFRJ and Gran Faculdade. Currently working with programming in C, C++, Python, Rust, and Assembly, exploring embedded systems and software development.
   
 #
 <!--Gif-->
