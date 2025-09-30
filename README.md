@@ -1,35 +1,74 @@
-## Olá eu sou o Paulo-alt👋
-
-<div>
-<img alt="My GitHub Stats" align="left" width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=paulo-alt&show_icons=true&theme=codeSTACKr" />
-
-<img alt="Top Languages" align="left" width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-alt&show_icons=true&layout=compact&langs_count=8&theme=codeSTACKr" />
-
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="paulo-luffy" width="26%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNxam5qN2E2am4xaHhncW51M3J1aWR4cnl3Mms1d2I1aHB4aTdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n881nu8KO2tJ5VtJ7U/giphy.gif" />
-</div>
-
- ##
-
- Connect with me!
-
-<a href="mailto:paulovitorfreitas33@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-<a href="https://www.linkedin.com/in/paulo-vitor-423875244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!--welcome ínicio-->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9AF7&width=435&separator=%3C&lines=%2B+Welcome+everyone+;-;+%2B&center=true&vCenter=true" alt="Typing SVG" />
   </a>
 </div>
+<!--Bannner-->
+<a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGrkb4j0VwF5g/profile-displaybackgroundimage-shrink_350_1400/B4DZZaPOuUG0Ac-/0/1745270664932?e=1762387200&v=beta&t=Eu80XwFj6fhQMMd0viY3mt9qAvMCrP0e8gE9I-Pc7IE" 
+       alt="Imagem de fundo do LinkedIn" 
+       style="width:100%; max-width:800px; border-radius:8px;">
+</a>
+</div>
 
+#
+<!--Texto-mensagem-->
+<p align="center">Estudante de Licenciatura e Bacharelado em Computação pelo IFRJ e Gran Faculdade. Atualmente trabalho com programação em C, C++, Python, Rust e Assembly, explorando sistemas embarcados e desenvolvimento de software.
+  
+#
+<!--Gif-->
+<img align="right" alt="GIF animado" height="190px" src="https://i.gifer.com/xK.gif">
+
+<!--Links-->
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=000)](mailto:paulovitorfreitas33@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=000)](https://www.linkedin.com/in/paulo-vitor-423875244/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000)](https://www.instagram.com/paulotechner/)
+
+
+<!--Stack-->
+<h3 align="left">My Stack ~</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="C++" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wasm/wasm-original.svg" height="25" alt="Assembly logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" />
+   <img width="8" />
+
+<img width="8" />
+
+</div>
+
+#
+<!--Stats-->
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img alt="My GitHub Stats" align="left" width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=paulo-alt&show_icons=true&theme=codeSTACKr" />
+  <img alt="Top Languages" align="left" width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-alt&show_icons=true&layout=compact&langs_count=8&theme=codeSTACKr" />
+</div>
+
+
+#
+<!--dark snake-->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulo-alt/paulo-alt/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulo-alt/alt/output/github-contribution-grid-snake-dark.svg">
