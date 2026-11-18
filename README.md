@@ -3,8 +3,6 @@
 </div>
 <!--Bannner-->
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGrkb4j0VwF5g/profile-displaybackgroundimage-shrink_350_1400/B4DZZaPOuUG0Ac-/0/1745270664932?e=1762387200&v=beta&t=Eu80XwFj6fhQMMd0viY3mt9qAvMCrP0e8gE9I-Pc7IE" 
-       alt="Imagem de fundo do LinkedIn" 
-       style="width:100%; max-width:800px; border-radius:8px;">
 </a>
 </div>
 
