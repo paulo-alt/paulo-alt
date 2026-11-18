@@ -1,8 +1,5 @@
 <!--welcome ínicio-->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9AF7&width=435&separator=%3C&lines=%2B+Welcome+everyone+;-;+%2B&center=true&vCenter=true" alt="Typing SVG" />
-  </a>
+<div align="center"
 </div>
 <!--Bannner-->
 <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
